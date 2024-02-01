@@ -1,0 +1,745 @@
+        
+        
+         
+        @media only screen and (max-width : 575px)
+        {
+            
+
+            body
+            {
+                margin : 0px;
+            }        
+            
+            .Header3
+            {
+                
+                background-color: rgb(255, 255, 255);
+                width: 100%;
+                height : 90px;
+                position : sticky;
+            }
+
+            .LHead3
+            {
+                list-style-type: none;
+                display : flex;
+                justify-content: space-between;
+                text-align: center;
+                
+            }
+
+            .LHead3 i
+            {
+                margin-top : 35px;
+                margin-left: 30px;
+                margin-right: 30px;
+                width: 50px;
+                height: 50px;
+            }
+
+            .LHead3 img
+            {
+                margin-top : 30px;
+            }
+
+            .Content a
+            {
+                margin-left: 20px;
+                margin-top: -20px;
+            }
+
+
+
+            .Content2
+            {
+                 background-color: rgb(225, 6, 6);
+                 color: white;
+                 width: 100%;
+                 height: 60px;
+                 display : flex;
+                 justify-content: center;
+                 align-items: center;
+            }
+
+            .Content2 
+
+            {
+                background-color: rgb(0, 0, 0);
+                color: #ffffff;
+                font-size: 24px;
+            }
+  
+            .Content2:hover 
+            {
+                background-color: white;
+                border: solid 1px;
+                color : rgb(0, 0, 0);
+                
+            }
+            
+            
+            .Header
+            {
+               display: none;
+            }
+
+            .Header1
+            {
+               display: none;
+            }
+
+            .Header2
+            {
+                display : none;
+            }
+
+        }
+        
+        @media only screen and (max-width : 756px) and (min-width : 575px)
+        {
+            body
+            {
+                margin : 0px;
+            }        
+            
+            .Header3
+            {
+                
+                background-color: rgb(255, 255, 255);
+                width: 100%;
+                height : 90px;
+                position : sticky;
+            }
+
+            .LHead3
+            {
+                list-style-type: none;
+                display : flex;
+                justify-content: space-between;
+                text-align: center;
+                
+            }
+
+            .LHead3 i
+            {
+                margin-top : 35px;
+                margin-left: 30px;
+                margin-right: 30px;
+                width: 50px;
+                height: 50px;
+            }
+
+            .LHead3 img
+            {
+                margin-top : 30px;
+            }
+
+
+            .Content
+            {
+                position : sticky;
+                top : 0;
+                background-color: black;
+                width: 100%;
+                height: 52px;
+                margin : 0px;
+            }
+
+
+            .Content span
+            {
+                margin-left: 20px;
+                margin-right: 20px;
+            }
+
+            .Content a
+            {
+                margin-left: 20px;
+                margin-top: -20px;
+            }
+
+            .Content2
+            {
+                 background-color: rgb(225, 6, 6);
+                 color: white;
+                 width: 100%;
+                 height: 60px;
+                 display : flex;
+                 justify-content: center;
+                 align-items: center;
+            }
+
+            .Content2 
+
+            {
+                background-color: rgb(0, 0, 0);
+                color: #ffffff;
+                font-size: 24px;
+            }
+  
+            .Content2:hover 
+            {
+                background-color: white;
+                border: solid 1px;
+                color : rgb(0, 0, 0);
+                
+            }
+
+            .Header
+            {
+               display: none;
+            }
+
+            .Header1
+            {
+               display: none;
+            }
+
+            .Header2
+            {
+                display : none;
+            }
+    
+        }
+
+         @media only screen and (max-width : 834px) and (min-width : 575px)
+         {
+            .Content
+            {
+                
+                display : block;
+                text-justify: center;
+                align-items: center;
+                background-color: #eee7fd;
+                color: rgb(0, 0, 0);
+                width: 100%;
+                height: 85px;
+                font-size: 16px;
+                font-weight: 600;
+                line-height: 50px;
+                position: relative;
+            }
+
+            .Content img
+            {
+               display: none;
+            }
+
+            .Content span
+             {
+                 margin-left: 20px;
+                 margin-right: 20px;
+             }
+
+            .Content a
+            {
+                color: #7759c2;
+                display: block;
+            }
+
+            .Content2
+            {
+                 background-color: rgb(225, 6, 6);
+                 color: white;
+                 width: 100%;
+                 height: 60px;
+                 display : flex;
+                 justify-content: center;
+                 align-items: center;
+            }
+
+            .Content2 
+
+            {
+                background-color: rgb(0, 0, 0);
+                color: #ffffff;
+                font-size: 24px;
+            }
+  
+            .Content2:hover 
+            {
+                background-color: white;
+                border: solid 1px;
+                color : rgb(0, 0, 0);
+                
+            }
+
+            
+         }
+
+
+         @media only screen and (max-width : 945px) and (min-width : 835px)
+         {
+            .Content
+             {
+                 display : flex;
+                 justify-content: center;
+                 align-items: center;
+                 background-color: #171321;
+                 color: white;
+                 width: 100%;
+                 height: 65px;
+                 margin : 0px;
+                 font-size: 16px;
+                 font-weight: 600;
+                 line-height: 20px;
+             }
+
+             .Content img
+             {
+                display: none;
+             }
+ 
+             .Content span
+             {
+                 margin-left: 20px;
+                 margin-right: 20px;
+             }
+
+             .Content a
+             {
+                margin-right: 20px;
+                color: white;
+             }
+
+
+             .Content2
+             {
+                  background-color: rgb(225, 6, 6);
+                  color: white;
+                  width: 100%;
+                  height: 60px;
+                  display : flex;
+                  justify-content: center;
+                  align-items: center;
+             }
+ 
+             .Content2 
+ 
+             {
+                 background-color: rgb(0, 0, 0);
+                 color: #ffffff;
+                 font-size: 24px;
+             }
+   
+             .Content2:hover 
+             {
+                 background-color: white;
+                 border: solid 1px;
+                 color : rgb(0, 0, 0);
+                 
+             }
+         }
+
+
+         @media only screen and (max-width : 1024px) and (min-width : 757px)
+         {
+             body
+             {
+                 margin : 0px;
+             }        
+             
+             .Header2
+             {
+                 display : flex;
+                 justify-content: space-between;
+                 background-color: rgb(255, 255, 255);
+                 width: 100%;
+                 height : 90px;
+                 position : sticky;
+             }
+
+             .LHead2 ul 
+             {
+                 margin-top: 27px;
+                 list-style-type: none;
+                 display : flex;
+                 flex-direction: row;
+                 gap : 20px;
+             }
+
+             .LHead2 ul li
+             {
+                visibility: hidden;
+             }
+             
+             .RHead2 ul li
+             {
+                 list-style-type: none;
+                 display : inline-flex;
+                 flex-direction: row;
+                 margin-right: 20px;
+             }
+     
+     
+             .RHead2 ul li  span
+             {
+                 background-color: black;
+                 color: white;
+                 border-radius: 5%;
+                 width: 140px;
+                 height: 40px;
+                 display : flex;
+                 justify-content: center;
+                 align-items: center;
+             }
+     
+             .RHead2 ul li span:hover
+             {
+                 background-color: white;
+                 border: solid 1px;
+                 color : black;
+                 
+             }
+ 
+             
+             .Content
+             {
+                 display : flex;
+                 justify-content: center;
+                 align-items: center;
+                 background-color: #171321;
+                 color: white;
+                 width: 100%;
+                 height: 65px;
+                 margin : 0px;
+                 font-size: 16px;
+                 font-weight: 600;
+                 line-height: 20px;
+             }
+ 
+             .Content span
+             {
+                 margin-left: 20px;
+                 margin-right: 20px;
+             }
+
+             .Content a
+             {
+                color: white;
+                margin-right: 20px;
+             }
+
+
+             .Content2
+             {
+                  background-color: rgb(225, 6, 6);
+                  color: white;
+                  width: 100%;
+                  height: 60px;
+                  display : flex;
+                  justify-content: center;
+                  align-items: center;
+             }
+ 
+             .Content2 
+ 
+             {
+                 background-color: rgb(0, 0, 0);
+                 color: #ffffff;
+                 font-size: 24px;
+             }
+   
+             .Content2:hover 
+             {
+                 background-color: white;
+                 border: solid 1px;
+                 color : rgb(0, 0, 0);
+                 
+             }
+           
+
+             .Header
+             {
+                display: none;
+             }
+
+             .Header1
+             {
+                display: none;
+             }
+
+             .Header3
+             {
+                display: none;
+             }
+
+             .Content2
+            {
+                display: none;
+            }
+     
+         }
+         
+        
+        @media only screen and (max-width : 1200px) and (min-width : 1025px)
+
+        {
+
+            body
+             {
+                 margin : 0px;
+             }      
+
+
+             .Content2
+             {
+                  background-color: rgb(225, 6, 6);
+                  color: white;
+                  width: 100%;
+                  height: 60px;
+                  display : flex;
+                  justify-content: center;
+                  align-items: center;
+             }
+ 
+             .Content2 
+ 
+             {
+                 background-color: rgb(0, 0, 0);
+                 color: #ffffff;
+                 font-size: 24px;
+             }
+   
+             .Content2:hover 
+             {
+                 background-color: white;
+                 border: solid 1px;
+                 color : rgb(0, 0, 0);
+                 
+             }
+
+            .Header1
+             {
+                 display : flex;
+                 justify-content: center;
+                 background-color: rgb(255, 255, 255);
+                 width: 100%;
+                 height : 90px;
+                 position : sticky;
+             }
+
+
+             .LHead1 ul 
+             {
+                 margin-top: 27px;
+                 list-style-type: none;
+                 display : flex;
+                 flex-direction: row;
+                 gap : 20px;
+             }
+
+             .RHead1 ul li
+             {
+                 list-style-type: none;
+                 display : inline-flex;
+                 flex-direction: row;
+                 margin-right: 20px;
+             }
+     
+     
+             .RHead1 ul li  span
+             {
+                 background-color: black;
+                 color: white;
+                 border-radius: 5%;
+                 width: 140px;
+                 height: 40px;
+                 display : flex;
+                 justify-content: center;
+                 align-items: center;
+             }
+     
+             .RHead1 ul li span:hover
+             {
+                 background-color: white;
+                 border: solid 1px;
+                 color : black;
+                 
+             }
+
+             .Content
+             {
+                 display : flex;
+                 justify-content: center;
+                 align-items: center;
+                 background-color: #171321;
+                 color: white;
+                 width: 100%;
+                 height: 65px;
+                 margin : 0px;
+                 font-size: 16px;
+                 font-weight: 600;
+                 line-height: 20px;
+             }
+ 
+             .Content span
+             {
+                 margin-left: 20px;
+                 margin-right: 20px;
+             }
+
+             .Content a
+             {
+                margin-right: 20px;
+                color: white;
+             }
+
+             .Header
+             {
+                display: none;
+             }
+
+             .Header2
+             {
+                display : none;
+             }
+
+             .Header3
+             {
+                display : none;
+             }
+
+             .Content2
+            {
+                display: none;
+            }
+        }
+        
+        
+        
+        @media only screen and (min-width : 1200px)
+        {
+            body
+            {
+                margin : 0px;
+            }        
+            
+            .Header
+            {
+                display : flex;
+                justify-content: space-between;
+                background-color: white;
+                width: 100%;
+                height : 90px;
+                position : sticky;
+            }
+            .LHead ul 
+            {
+                margin-top: 27px;
+                list-style-type: none;
+                display : flex;
+                flex-direction: row;
+                gap : 20px;
+            }
+    
+            .RHead ul li
+            {
+                list-style-type: none;
+                display : inline-flex;
+                flex-direction: row;
+                margin-right: 20px;
+            }
+    
+    
+            .RHead ul li  span
+            {
+                background-color: black;
+                color: white;
+                border-radius: 5%;
+                width: 140px;
+                height: 40px;
+                display : flex;
+                justify-content: center;
+                align-items: center;
+            }
+    
+            .RHead ul li span:hover
+            {
+                background-color: white;
+                border: solid 1px;
+                color : black;
+                
+            }
+
+            .Content
+            {
+                display : flex;
+                justify-content: center;
+                align-items: center;
+                background-color: #171321;
+                color: white;
+                width: 100%;
+                height: 65px;
+                margin : 0px;
+                font-size: 16px;
+                font-weight: 600;
+                line-height: 20px;
+            }
+
+            .Content span
+            {
+                margin-left: 20px;
+                margin-right: 20px;
+            }
+
+            .Content a
+            {
+                margin-right: 20px;
+                color: white;
+            }
+
+            .Content2
+            {
+                 background-color: rgb(225, 6, 6);
+                 color: white;
+                 width: 100%;
+                 height: 60px;
+                 display : flex;
+                 justify-content: center;
+                 align-items: center;
+            }
+
+            .Content2 
+
+            {
+                background-color: rgb(0, 0, 0);
+                color: #ffffff;
+                font-size: 24px;
+            }
+  
+            .Content2:hover 
+            {
+                background-color: white;
+                border: solid 1px;
+                color : rgb(0, 0, 0);
+                
+            }
+
+            .Header1
+             {
+                display: none;
+             }
+             
+             .Header2
+             {
+                display: none;
+             }
+
+             .Header3
+             {
+                display: none;
+             }
+
+
+             .Content2
+             {
+                display: none;
+             }
+             
+            
+           
+
+        }
+
+       
